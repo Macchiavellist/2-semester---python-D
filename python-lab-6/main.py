@@ -14,7 +14,7 @@ test_path = "test_folder"
 file_path = "test.txt"
 
 # 1. List directories and files
-print(list_contents("."))
+print(list_contents(""))
 
 # 2. Check access
 print(check_access(test_path))
