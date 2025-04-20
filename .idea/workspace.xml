@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3ee01df-110d-481d-92f1-8ac83de95021" name="Changes" comment="date updated">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-lab-9/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-lab-9/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-lab-11/phonebook.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +99,7 @@
       <workItem from="1743584662275" duration="3352000" />
       <workItem from="1744186874889" duration="919000" />
       <workItem from="1744187818963" duration="347000" />
+      <workItem from="1745162728734" duration="131000" />
     </task>
     <task id="LOCAL-00001" summary="added every task">
       <option name="closed" value="true" />
